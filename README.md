@@ -154,3 +154,24 @@ alt="submit pull request" />
 Soon we'll be merging all your changes into the main branch of this 
 project. You will get a notification email once the changes have been 
 merged.
+
+# Contributors 
+
+Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/101629997?v=4" width="100px;" alt="Ayan Masood"/>
+                    <br />
+                    <sub><b>Ayan Masood</b></sub>
+                </a> 
+            </td>
+        </tr>
+    </tbody>
+</table>
