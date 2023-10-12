@@ -2,9 +2,9 @@
 
 ## Steps to add yourself to the contributers list.
 
-1) You will first need git which you can download from [here](https://git-scm.com/downloads).
+1) You will first need git which you can download from [here]().
 
-2) Now head [here](https://github.com/alisolanki/Welcome-to-Open-Source) and click on the `fork` button.
+2) Now head [here]() and click on the `fork` button.
 
 3) On the next page you will see a `create fork` button, press it.
 
@@ -33,10 +33,10 @@
     </td>
     ```
 
-8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
+8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> "` and lastly `git push origin master`.
 
 9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
 
 10) You have created a pull request, wait for a member to review and merge it : )
 
-Lastly, GitHub/Git are vital in open-source contributions, to learn more about them check this blog [here](https://dragon2002.hashnode.dev/git-and-github-must-know-guide#heading-setting-up-github).
+Lastly, GitHub/Git are vital in open-source contributions, to learn more about them check this blog [here]().
