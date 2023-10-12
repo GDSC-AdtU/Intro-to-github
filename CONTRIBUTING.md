@@ -1,42 +1,36 @@
-# Welcome-to-open-source Contributor Guide
+# Final Contribution Guide
+
+### Be Excited 😁
 
 ## Steps to add yourself to the contributers list.
 
-1) You will first need git which you can download from [here]().
+1. Head [here](https://github.com/GDSC-AdtU/Intro-to-github) and click on the `fork` button.
 
-2) Now head [here]() and click on the `fork` button.
+2. On the next page you will see a `create fork` button, press it.
 
-3) On the next page you will see a `create fork` button, press it.
+3. You will land on your forked repo page, here you will see a `<> Code` button marked in green, click on it and copy the url.
 
-4) You will land on your forked repo page, here you will see a `<> Code` button marked in green, click on it and copy the url.
+4. Open your terminal and type git clone <url you copied> and press enter.
 
-5) Open your terminal and type git clone <url you copied> and press enter.
+5. Now you will see a folder named `Welcome-to-Open-Source`, open it and edit the `README.md` file using any text editor, VScode for example.
 
-6) Now you will see a folder named `Welcome-to-Open-Source`, open it and edit the `README.md` file using any text editor, VScode for example.
+6. Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
 
-7) Below is a code snippet for reference as to what has to ADDED in the file. Inside the `<b> </b>` tag you have to put your name, in the `<href >` tag, you have to place your github profile URL. And lastly you have to place your github profile photo url inside the `src` tag.
-
-    ```
+   ```
+   </td>
     <td align="center">
-        <a href="">
-            <img src="https://avatars.githubusercontent.com/u/101629997?v=4" width="100px;" alt="Ali Solanki"/>
-            <br />
-            <sub><b>Ayan Masood</b></sub>
-        </a>
-    </td>
-     <td align="center">
-        <a href="https://github.com/neeraj500">
-            <img src="https://avatars.githubusercontent.com/u/81459147?v=4" width="100px;" alt="Neeraj Madake"/>
-            <br />
-            <sub><b>Neeraj Madake
-        </a>
-    </td>
-    ```
+       <a href="'github link here'">
+           <img src="'image url here'" width="100px;" alt=""/>
+           <br />
+           <sub><b>'NameHere'
+       </a>
+   </td>
+   ```
 
-8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> "` and lastly `git push origin master`.
+7. Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> "` and lastly `git push origin master`.
 
-9) Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
+8. Go to your forked repo page, `sync` your fork and then there you will see a button in green which says `Open pull request`, press it and in the comments section type "Adding my name to contributer list" and press on `create pull request`.
 
-10) You have created a pull request, wait for a member to review and merge it : )
+9. You have created a pull request, wait for a member to review and merge it : )
 
 Lastly, GitHub/Git are vital in open-source contributions, to learn more about them check this blog [here]().
