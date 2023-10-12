@@ -58,6 +58,31 @@ git clone https://github.com/GDSC-AJCE/first-contribution.git
 where `this-is-you` is your GitHub username. Here you're copying the 
 contents of the first-contributions repository on GitHub to your computer.
 
+
+## Set the Origin and Upstream URL
+
+By convention the url of the fork that you had created is called the `origin` and the url of the original repository is called the `upstream`
+
+You need to add the `origin` url so that git knows where to push the changes you have made, something we will see on the later part of the tutorial.
+And you need to add the `upstream` url so that everytime the original repository is updated you can sync the changes to your fork. 
+
+You can add the `origin` url using the `git remote add origin` command.
+
+```
+git remote add origin <the-url-of-your-fork>
+```
+
+For example:
+
+```
+git remote add origin  
+```
+
+Similarly you can add the `upstream` url using the `git remote add upstream` command.
+
+```
+git remote add upstream <the-url-of-the-original-repository>
+``` 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not 
@@ -67,16 +92,28 @@ already there):
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now create a branch using the `git branch` command:
 
 ```
-git switch -c your-new-branch-name
+git branch <new-branch-name>
 ```
 
 For example:
 
 ```
-git switch -c add-alonzo-church
+git branch alonzo-church
+```
+
+Now change the head to `new branch` from `main` branch using the `git checkout` command:
+
+```
+git checkout <new-branch-name>
+```
+
+For example:
+
+```
+git checkout alonzo-church
 ```
 
 ## Make necessary changes and commit those changes
