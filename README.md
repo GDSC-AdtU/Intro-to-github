@@ -2,7 +2,7 @@
 
 ### Introduction to Git and Github
 
-    This repo is maintained for introducing Github workflows
+    This repo is maintained for the git & github workshop
 
 <hr>
 
