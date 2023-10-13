@@ -92,7 +92,9 @@ git remote add upstream https://github.com/GDSC-AdtU/Intro-to-github
 
 You can check if the URL are successfully added by using the `git remote -v` command.
 
-`git remote -v`
+```
+git remote -v
+```
 
 The output should be:
 
