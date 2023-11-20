@@ -239,6 +239,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
+                <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://instagram.fgau1-1.fna.fbcdn.net/v/t51.2885-19/386368121_355976230164357_5320466605649703788_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fgau1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=9LorQGuf80UAX96Rucv&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDC_5EPADswTFOurB5RYL5i6X4OJ7GnEfyn8D61qibDng&oe=65602770&_nc_sid=8b3546" width="100px;" alt="Karan Bharadwaj"/>
+                    <br />
+                    <sub><b>Karan Bharadwaj</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
