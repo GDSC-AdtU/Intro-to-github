@@ -239,6 +239,14 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
+            </td>
+                <td align="center">
+                <a href="C:\Users\Rudra Pandiya\OneDrive\Documents\Rudra Pandiya.jpg">
+                    <img src="https://avatars.githubusercontent.com/u/74696516?v=4" width="100px;" alt="Rudra Pandiya "/>
+                    <br />
+                    <sub><b>Rudra Pandiya </b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
