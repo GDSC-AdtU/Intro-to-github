@@ -239,6 +239,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/151518244?v=4" width="100px;" alt="Dhritimaan Sahariah"/>
+                    <br />
+                    <sub><b>Dhritimaan Sahariah</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
