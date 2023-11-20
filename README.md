@@ -239,6 +239,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
+                <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://media.licdn.com/dms/image/D4D03AQGzHi2tL-uk8Q/profile-displayphoto-shrink_400_400/0/1695542753811?e=1702512000&v=beta&t=Fgg6_jUD6-pIv77DvNb0XZiDByYrk9L0rZcb3Ps6WZs" width="100px;" alt="Nikita Borgohain"/>
+                    <br />
+                    <sub><b>Nikita Borgohain</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
