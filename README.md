@@ -239,6 +239,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amarujala.com%2Fphoto-gallery%2Fspirituality%2Freligion%2F5-tricks-of-shri-krishna-in-mahabharat-war&psig=AOvVaw3w3JksmOgJmZmK4XJXhKRk&ust=1700563793803000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj9w-Cz0oIDFQAAAAAdAAAAABAE" width="100px;" alt="Piyush Chakraborty"/>
+                    <br />
+                    <sub><b>Piyush Chakraborty</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
