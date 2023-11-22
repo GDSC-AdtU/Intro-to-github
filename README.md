@@ -239,6 +239,14 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
+            </td>
+                <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/144653966?v=4" width="100px;" alt="Jintu Basumatary"/>
+                    <br />
+                    <sub><b>Jintu Basumatary</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
