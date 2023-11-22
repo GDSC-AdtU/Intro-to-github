@@ -238,7 +238,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <br />
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
-            </td>
+            </td> 
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://m.economictimes.com/thumb/msid-79745222,width-1200,height-900,resizemode-4,imgsize-62521/subash-chandra-bose.jpg" width="100px;" alt="Pritidipan Saha"/>
+                    <br />
+                    <sub><b>Pritidipan Saha</b></sub>
+                </a> 
         </tr>
     </tbody>
 </table>
