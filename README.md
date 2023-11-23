@@ -244,8 +244,7 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <br />
                     <sub><b>Hrishikesh Bor Saikia</b></sub>
                 </a> 
-            </td>/td>
-
+            </td>
         </tr>
     </tbody>
 </table>
