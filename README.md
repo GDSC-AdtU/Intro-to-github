@@ -51,7 +51,7 @@ obtain the url.
 src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" 
 alt="copy URL to clipboard" />
 
-For example:
+For example: 
 
 ```
 git clone https://github.com/GDSC-AJCE/first-contribution.git
@@ -237,6 +237,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <img src="https://avatars.githubusercontent.com/u/74696516?v=4" width="100px;" alt="Krishna Moni Das"/>
                     <br />
                     <sub><b>Krishna Moni Das</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/91265097?v=4" width="100px;" alt="Prince Ch Boro"/>
+                    <br />
+                    <sub><b> Prince Ch Boro</b></sub>
                 </a> 
             </td>
         </tr>
