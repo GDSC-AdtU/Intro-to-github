@@ -19,10 +19,10 @@
    ```
    </td>
     <td align="center">
-       <a href="'github link here'">
-           <img src="'image url here'" width="100px;" alt=""/>
+       <a href="https://github.com/sahil-z14">
+           <img src="https://avatars.githubusercontent.com/u/151865676?s=400&u=4f7747608771ab1ff52971c4eed3025d35916c05&v=4" width="100px;" alt=""/>
            <br />
-           <sub><b>'NameHere'
+           <sub><b>'Sahil Kumar Singh'
        </a>
    </td>
    ```
