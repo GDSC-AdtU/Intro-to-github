@@ -217,13 +217,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
 <!-- markdownlint-disable -->
 <table>
     <tbody>
-        <tr>
+        <tr> 
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/101629997?v=4" width="100px;" alt="Ayan Masood"/>
                     <br />
                     <sub><b>Ayan Masood</b></sub>
-                </a> 
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
@@ -339,6 +339,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <img src="https://avatars.githubusercontent.com/u/145262103?v=4" width="100px;" alt="Karan Bharadwaj"/>
                     <br />
                     <sub><b>Karan Bharadwaj</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145043733?v=4" width="100px;" alt="Deb Mandal"/>
+                    <br />
+                    <sub><b>Deb Mandal</b></sub>
                 </a> 
             </td>
         </tr>
