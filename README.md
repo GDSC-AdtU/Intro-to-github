@@ -253,6 +253,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Rudra Pandiya </b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/138845972?v=4" width="100px;" alt=" Sanjukta Das"/>
+                    <br />
+                    <sub><b>Sanjukta Das</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
