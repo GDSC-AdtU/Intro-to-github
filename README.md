@@ -253,6 +253,8 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Rudra Pandiya </b></sub>
                 </a> 
             </td>
+      </tr>
+      <tr>
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/138845972?v=4" width="100px;" alt=" Sanjukta Das"/>
@@ -265,6 +267,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <img src="https://avatars.githubusercontent.com/u/95901704?v=4" width="100px;" alt="Pulung Brahma"/>
                     <br />
                     <sub><b>Pulung Brahma</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/116501911?v=4" width="100px;" alt="Sanchayita Sharma"/>
+                    <br />
+                    <sub><b>Sanchayita Sharma</b></sub>
                 </a> 
             </td>
         </tr>
