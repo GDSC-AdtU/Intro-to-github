@@ -311,6 +311,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Dhritimaan Sahariah</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/126232551?v=4" width="100px;" alt="Binit Deb"/>
+                    <br />
+                    <sub><b>Binit Deb</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
