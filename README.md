@@ -334,94 +334,14 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Deepayan Ghosh</b></sub>
                 </a> 
             </td>
+             <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145262103?v=4" width="100px;" alt="Karan Bharadwaj"/>
+                    <br />
+                    <sub><b>Karan Bharadwaj</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <td align="center">
-                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
-                    <img src="" width="100px;" alt="deepayan ghosh"/>
-                    <br />
-                    <sub><b>deepayan ghosh</b></sub>
-                </a> 
-            </td>
