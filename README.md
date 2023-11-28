@@ -290,6 +290,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Cheangchang CH Momin</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/67728391?v=4" width="100px;" alt="Devdeep Singha"/>
+                    <br />
+                    <sub><b>Devdeep Singha</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
