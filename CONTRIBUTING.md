@@ -2,7 +2,7 @@
 
 ### Be Excited 😁
 
-## Steps to add yourself to the contributers list.
+## Steps to add yourself to the contributers list!
 
 1. Head [here](https://github.com/GDSC-AdtU/Intro-to-github) and click on the `fork` button.
 
