@@ -323,10 +323,6 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
 
 
 
-
-
-
-
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="" width="100px;" alt="deepayan ghosh"/>
