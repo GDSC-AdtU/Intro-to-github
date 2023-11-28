@@ -362,6 +362,17 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Bungthoi Thoidingjam</b></sub>
                 </a>    
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/147859899?v=4" width="100px;" alt="Pubali Saikia"/>
+                    <br />
+                    <sub><b>Pubali Saikia</b></sub>
+                </a> 
+            </td>
+        </tr>
+        <tr>
+
+
         </tr>
     </tbody>
 </table>
