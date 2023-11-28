@@ -420,7 +420,16 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Himraj Gogoi</b></sub>
                 </a> 
             </td>
+        </tr>
+        <tr>
            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/149225300?v=4" width="100px;" alt="Subhajit Roy"/>
+                    <br />
+                    <sub><b>Subhajit Roy</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/149225300?v=4" width="100px;" alt="Subhajit Roy"/>
                     <br />
