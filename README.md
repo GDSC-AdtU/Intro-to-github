@@ -327,6 +327,101 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Md Sibgatullah</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145019195?v=4" width="100px;" alt="Deepayan Ghosh"/>
+                    <br />
+                    <sub><b>Deepayan Ghosh</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="" width="100px;" alt="deepayan ghosh"/>
+                    <br />
+                    <sub><b>deepayan ghosh</b></sub>
+                </a> 
+            </td>
