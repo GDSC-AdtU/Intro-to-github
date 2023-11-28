@@ -231,8 +231,15 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <br />
                     <sub><b>Kaustav Raj Kalita</b></sub>
                 </a> 
-wdawdawd
             </td>
+                <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145043733?v=4" width="100px;" alt="deb mandal"/>
+                    <br />
+                    <sub><b>deb mandal</b></sub>
+                </a> 
+            </td>
+                        </td>
                 <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/145043733?v=4" width="100px;" alt="deb mandal"/>
