@@ -217,20 +217,20 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
 <!-- markdownlint-disable -->
 <table>
     <tbody>
-        <tr>
+        <tr> awdawdawd
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/101629997?v=4" width="100px;" alt="Ayan Masood"/>
                     <br />
                     <sub><b>Ayan Masood</b></sub>
-                </a> 
+                </a> dwadawdawda
             </td>
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://media.licdn.com/dms/image/D4D03AQGzHi2tL-uk8Q/profile-displayphoto-shrink_400_400/0/1695542753811?e=1702512000&v=beta&t=Fgg6_jUD6-pIv77DvNb0XZiDByYrk9L0rZcb3Ps6WZs" width="100px;" alt="Kaustav Raj Kalita"/>
                     <br />
                     <sub><b>Kaustav Raj Kalita</b></sub>
-                </a> 
+                </a> dwadwadawd
             </td>
                 <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
@@ -239,14 +239,116 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>deb mandal</b></sub>
                 </a> 
             </td>
-                        </td>
-                <td align="center">
-                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
-                    <img src="https://avatars.githubusercontent.com/u/145043733?v=4" width="100px;" alt="deb mandal"/>
-                    <br />
-                    <sub><b>deb mandal</b></sub>
-                </a> 
-            </td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         </tr>
     </tbody>
 </table>
