@@ -297,6 +297,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Devdeep Singha</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145791642?v=4" width="100px;" alt="Samiron Lahon"/>
+                    <br />
+                    <sub><b> Samiron Lahon</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
