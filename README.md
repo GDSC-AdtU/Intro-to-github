@@ -232,16 +232,111 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Kaustav Raj Kalita</b></sub>
                 </a> 
             </td>
-                <td align="center">
+            <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/74696516?v=4" width="100px;" alt="Krishna Moni Das"/>
                     <br />
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
-                <td align="center">
+            <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
-                    <img src="https://instagram.fgau1-1.fna.fbcdn.net/v/t51.2885-19/386368121_355976230164357_5320466605649703788_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fgau1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=9LorQGuf80UAX96Rucv&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDC_5EPADswTFOurB5RYL5i6X4OJ7GnEfyn8D61qibDng&oe=65602770&_nc_sid=8b3546" width="100px;" alt="Karan Bharadwaj"/>
+                    <img src="https://avatars.githubusercontent.com/u/44723456?v=4" width="100px;" alt="Debarchito Nath"/>
+                    <br />
+                    <sub><b>Debarchito Nath</b></sub>
+                </a> 
+            </td>          
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/148809189?v=4" width="100px;" alt="Rudra Pandiya "/>
+                    <br />
+                    <sub><b>Rudra Pandiya </b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/138845972?v=4" width="100px;" alt=" Sanjukta Das"/>
+                    <br />
+                    <sub><b>Sanjukta Das</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/95901704?v=4" width="100px;" alt="Pulung Brahma"/>
+                    <br />
+                    <sub><b>Pulung Brahma</b></sub>
+                </a> 
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/116501911?v=4" width="100px;" alt="Sanchayita Sharma"/>
+                    <br />
+                    <sub><b>Sanchayita Sharma</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145021715?v=4" width="100px;" alt="Abhishek Kumar Singh"/>
+                    <br />
+                    <sub><b>Abhishek Kumar Singh</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145018091?v=4" width="100px;" alt="Cheangchang CH Momin"/>
+                    <br />
+                    <sub><b>Cheangchang CH Momin</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/67728391?v=4" width="100px;" alt="Devdeep Singha"/>
+                    <br />
+                    <sub><b>Devdeep Singha</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145791642?v=4" width="100px;" alt="Samiron Lahon"/>
+                    <br />
+                    <sub><b> Samiron Lahon</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/151518244?v=4" width="100px;" alt="Dhritimaan Sahariah"/>
+                    <br />
+                    <sub><b>Dhritimaan Sahariah</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/126232551?v=4" width="100px;" alt="Binit Deb"/>
+                    <br />
+                    <sub><b>Binit Deb</b></sub>
+                </a> 
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/147991063?s=400&u=761b1a96c22937a91bbb86095fb16ec053c107b0&v=4" width="100px;" alt="Md Sibgatullah"/>
+                    <br />
+                    <sub><b>Md Sibgatullah</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145019195?v=4" width="100px;" alt="Deepayan Ghosh"/>
+                    <br />
+                    <sub><b>Deepayan Ghosh</b></sub>
+                </a> 
+            </td>
+             <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/145262103?v=4" width="100px;" alt="Karan Bharadwaj"/>
                     <br />
                     <sub><b>Karan Bharadwaj</b></sub>
                 </a> 
@@ -249,3 +344,4 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
         </tr>
     </tbody>
 </table>
+
