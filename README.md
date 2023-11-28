@@ -464,6 +464,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Sakanipaia Lyngdoh</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/151538648?v=4" width="100px;" alt="Naipha Loham"/>
+                    <br />
+                    <sub><b>Naipha Loham</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
