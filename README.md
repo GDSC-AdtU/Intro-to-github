@@ -232,17 +232,23 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Kaustav Raj Kalita</b></sub>
                 </a> 
             </td>
-                <td align="center">
+            <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/74696516?v=4" width="100px;" alt="Krishna Moni Das"/>
                     <br />
                     <sub><b>Krishna Moni Das</b></sub>
                 </a> 
             </td>
-            </td>
-                <td align="center">
-                <a href="C:\Users\Rudra Pandiya\OneDrive\Documents\Rudra Pandiya.jpg">
-                    <img src="https://avatars.githubusercontent.com/u/74696516?v=4" width="100px;" alt="Rudra Pandiya "/>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/44723456?v=4" width="100px;" alt="Debarchito Nath"/>
+                    <br />
+                    <sub><b>Debarchito Nath</b></sub>
+                </a> 
+            </td>          
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/148809189?v=4" width="100px;" alt="Rudra Pandiya "/>
                     <br />
                     <sub><b>Rudra Pandiya </b></sub>
                 </a> 
