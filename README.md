@@ -231,7 +231,7 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <br />
                     <sub><b>Kaustav Raj Kalita</b></sub>
                 </a> 
-            </td>
+            </td>dwadawd
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/38580143?v=4" width="100px;" alt="Sudipta Kumar Sarkar"/>
@@ -239,6 +239,30 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Sudipta Kumar Sarkar</b></sub>
                 </a>    
             </td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         </tr>
     </tbody>
 </table>
