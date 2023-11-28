@@ -231,7 +231,7 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <br />
                     <sub><b>Kaustav Raj Kalita</b></sub>
                 </a> 
-            </td>
+            </td> 
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/74696516?v=4" width="100px;" alt="Krishna Moni Das"/>
@@ -371,8 +371,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
             </td>
         </tr>
         <tr>
-
-
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/70031297?s=400&u=799c40225de3aa7d57b12b47b10d0f3fc2acc6c8&v=4" width="100px;" alt="Hrishikesh Bor Saikia"/>
+                    <br />
+                    <sub><b>Hrishikesh Bor Saikia</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
