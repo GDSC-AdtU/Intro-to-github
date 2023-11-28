@@ -450,6 +450,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b> Prince Ch Boro</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/147152979?v=4" width="100px;" alt="Mizanul Hoque"/>
+                    <br />
+                    <sub><b>Mizanul Hoque</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
