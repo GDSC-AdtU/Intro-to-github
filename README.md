@@ -355,6 +355,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Sudipta Kumar Sarkar</b></sub>
                 </a>    
             </td>
+            <td align="center">
+                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
+                    <img src="https://avatars.githubusercontent.com/u/143537871?v=4" width="100px;" alt="Bungthoi Thoidingjam"/>
+                    <br />
+                    <sub><b>Bungthoi Thoidingjam</b></sub>
+                </a>    
+            </td>
         </tr>
     </tbody>
 </table>
