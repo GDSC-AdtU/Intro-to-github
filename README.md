@@ -487,6 +487,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Titoka H Aye</b></sub>
                 </a>
             </td>
+            <td align="center">
+               <a href="https://github.com/AkuSarma">
+                    <img src="https://avatars.githubusercontent.com/u/68861875?v=4" width="100px;" alt="Aku Sarma image"/>
+                    <br />
+                    <sub><b>Aku Sarma</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
