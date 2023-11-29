@@ -487,6 +487,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Sahil Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+               <a href="https://github.com/titoka22">
+                    <img src="https://avatars.githubusercontent.com/u/152369352?s=400&v=4" width="100px;" alt="Titoka H Aye"/>
+                    <br />
+                    <sub><b>Titoka H Aye</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
