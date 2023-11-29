@@ -489,7 +489,7 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
             </td>
             <td align="center">
                <a href="https://github.com/AkuSarma">
-                    <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_250,h_250,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/avatars/aku_sarma_XAgztvq.jpg" width="100px;" alt="Aku Sarma image"/>
+                    <img src="https://avatars.githubusercontent.com/u/68861875?v=4" width="100px;" alt="Aku Sarma image"/>
                     <br />
                     <sub><b>Aku Sarma</b></sub>
                 </a>
