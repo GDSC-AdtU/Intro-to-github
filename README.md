@@ -464,8 +464,6 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Naipha Loham</b></sub>
                 </a> 
             </td>
-      </tr>
-      <tr>
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://avatars.githubusercontent.com/u/99952724?s=400&u=9b41df9ee0ae00f4f6aa59bcae027aec02452388&v=4" width="100px;" alt="Montu Kumar"/>
@@ -473,6 +471,8 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Montu Kumar</b></sub>
                 </a> 
             </td>
+      </tr>
+      <tr>
             <td align="center">
                <a href="https://github.com/sahil-z14">
                     <img src="https://avatars.githubusercontent.com/u/151865676?s=400&u=4f7747608771ab1ff52971c4eed3025d35916c05&v=4" width="100px;" alt="Sahil Kumar Singh"/>
