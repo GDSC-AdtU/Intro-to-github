@@ -508,6 +508,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Abhinab Nath</b></sub>
                 </a>
             </td>
+            <td align="center">
+                 <a href="https://github.com/RaktimBGohain">
+                    <img src="https://avatars.githubusercontent.com/u/147875489?v=4" width="100px;" alt="Raktim"/>
+                    <br />
+                    <sub><b>Raktim Borpatragohain</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
