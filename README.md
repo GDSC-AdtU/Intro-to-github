@@ -502,9 +502,6 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                 </a>
             </td>
                     <br />
-                    <sub><b>Aku Sarma</b></sub>
-                </a>
-            </td>
             <td align="center">
                  <a href="https://github.com/CandidSamurai">
                     <img src="https://avatars.githubusercontent.com/u/150930116?s=400&u=04979191b9672c36994d213c59fd033d3fb64153&v=4" width="100px;" alt="Abhinab Nath"/>
