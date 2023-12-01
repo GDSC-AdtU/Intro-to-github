@@ -227,13 +227,6 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
             </td>
             <td align="center">
                 <a href="https://github.com/GDSC-AdtU/Intro-to-github">
-                    <img src="https://avatars.githubusercontent.com/u/126272029?s=96&v=4" width="100px;" alt="Vikash Singh"/>
-                    <br />
-                    <sub><b>Vikash Singh</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/GDSC-AdtU/Intro-to-github">
                     <img src="https://media.licdn.com/dms/image/D4D03AQGzHi2tL-uk8Q/profile-displayphoto-shrink_400_400/0/1695542753811?e=1702512000&v=beta&t=Fgg6_jUD6-pIv77DvNb0XZiDByYrk9L0rZcb3Ps6WZs" width="100px;" alt="Kaustav Raj Kalita"/>
                     <br />
                     <sub><b>Kaustav Raj Kalita</b></sub>
@@ -501,7 +494,13 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Aku Sarma</b></sub>
                 </a>
             </td>
+                      <td align="center">
+               <a href="https://github.com/vs66388">
+                    <img src="https://avatars.githubusercontent.com/u/68861875?v=4" width="100px;" alt="Vikash Singh"/>
                     <br />
+                    <sub><b>Vikash Singh</b></sub>
+                </a>
+            </td>>
             <td align="center">
                  <a href="https://github.com/CandidSamurai">
                     <img src="https://avatars.githubusercontent.com/u/150930116?s=400&u=04979191b9672c36994d213c59fd033d3fb64153&v=4" width="100px;" alt="Abhinab Nath"/>
