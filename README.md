@@ -494,17 +494,11 @@ Thank you to all the GDSC Members for their contribution ([:hugs:](https://allco
                     <sub><b>Aku Sarma</b></sub>
                 </a>
             </td>
-                      <td align="center">
+             <td align="center">
                <a href="https://github.com/vs66388">
-                    <img src="            <td align="center">
-               <a href="https://github.com/AkuSarma">
-                    <img src="https://avatars.githubusercontent.com/u/68861875?v=4" width="100px;" alt="Aku Sarma image"/>
+                    <img src="https://avatars.githubusercontent.com/u/126272029?v=4" width="100px;" alt="Vikash"/>
                     <br />
                     <sub><b>Vikash Singh</b></sub>
-                </a>
-            </td>>
-                    <br />
-                    <sub><b>Aku Sarma</b></sub>
                 </a>
             </td>
             <td align="center">
